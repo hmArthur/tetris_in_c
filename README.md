@@ -1,5 +1,4 @@
 
-````markdown
 # Tetris C - Raylib
 
 A **Tetris** game written in **C** using [Raylib](https://www.raylib.com/) with support for **Linux**, **Windows**, and **Web (WASM)**.
